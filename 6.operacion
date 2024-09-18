@@ -1,0 +1,6 @@
+# Miguel Angel Ruvalcaba Valverde
+
+#MUESTRA SUMA DE VARIABLE
+print("la suma total de 5+7 es de:")
+print (5+6)
+
